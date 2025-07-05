@@ -39,15 +39,16 @@ Make sure Python 3 is installed.
 
 **Clone the repository**  
 ```bash
-git clone https://github.com/yourusername/watchdog-lite.git
-cd watchdog-lite
+git clone https://github.com/yourusername/WatchDogLite.git
+
+cd WatchDogLite
 
 pip install -r requirements.txt
 
 python main.py
 ```
 
-### Convert to EXE (Optional for Windows)
+### Convert to EXE (Recommended for Windows)
 You can convert this project into a standalone executable so it runs without needing Python installed:
 
 Install Pyinstall
