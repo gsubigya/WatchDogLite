@@ -9,6 +9,9 @@ It captures your screen in short 10-second video clips, logs every keystroke, tr
 ⚠️ This project is intended strictly for **ethical, educational, and personal use**. I do **not support or take responsibility** for any misuse. Use it responsibly.
 
 ---
+## 📸 Screenshot
+- Screenshot of how video is saved
+![WatchDogLite Screenshot](assets/videocaptured.png)
 
 ### ✅ Features
 
