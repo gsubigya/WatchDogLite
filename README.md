@@ -6,7 +6,7 @@
 
 It captures your screen in short 10-second video clips, logs every keystroke, tracks visited IP addresses and domains, and can run silently from startup when converted to an executable. The intent is simple: personal peace of mind. It's built ethically and modularly to support upcoming features like webcam capture, remote logging, and encrypted storage.
 
-⚠️ This project is intended strictly for **ethical, educational, and personal use**. The author does **not support or take responsibility** for any misuse. Use it responsibly.
+⚠️ This project is intended strictly for **ethical, educational, and personal use**. I do **not support or take responsibility** for any misuse. Use it responsibly.
 
 ---
 
