@@ -74,7 +74,7 @@ I’ve always been paranoid about leaving my device unattended especially in pub
 
 It made me feel like someone could be watching or messing with my system at any time. So instead of living with that paranoia, I decided to build a personal watchdog. A system that watches for me when I’m not around.
 
-This started out as a small keylogger experiment, but building a working, high-quality screen recorder that captures and stores activity in intervals was a learning curve. I kept everything modular with folders like camera/, recorder/, logger/, and config/ because I plan to evolve this into a full monitoring suite for personal devices — possibly with remote access, encryption, and smart alerts.
+This started out as a small keylogger experiment, but building a working, high-quality screen recorder that captures and stores activity in intervals was a learning curve. I kept everything modular with folders like camera/, recorder/, logger/, and config/ because I plan to evolve this into a full monitoring suite for personal devices possibly with remote access, encryption, and smart alerts.
 
 This project has helped me learn a lot about real-time logging, system monitoring, and security. I hope it brings the same sense of control and learning to anyone who uses it.
 
