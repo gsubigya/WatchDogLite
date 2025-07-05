@@ -11,7 +11,7 @@ It captures your screen in short 10-second video clips, logs every keystroke, tr
 ---
 ## 📸 Screenshot
 - Screenshot of how video is saved
-![WatchDogLite Screenshot](assets/videocaptured.png)
+![WatchDogLite Screenshot](assets/videocaptured.PNG)
 
 ### ✅ Features
 
