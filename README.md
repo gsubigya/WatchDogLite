@@ -21,14 +21,14 @@ It captures your screen in short 10-second video clips, logs every keystroke, tr
 ---
 
 ### 📁 Folder Structure
-watchdog-lite/
-├── camera/ # Webcam functionality (planned for future)
-├── config/ # Configuration and environment settings
-├── installer/ # Scripts for startup integration and EXE handling
-├── logger/ # Keylogging and IP/domain logging
-├── recorder/ # Screen recording logic
-├── utils/ # Helper scripts and utilities
-├── main.py # Central script that ties all modules together
+- watchdog-lite/
+- ├── camera/ # Webcam functionality (planned for future)
+- ├── config/ # Configuration and environment settings
+- ├── installer/ # Scripts for startup integration and EXE handling
+- ├── logger/ # Keylogging and IP/domain logging
+- ├── recorder/ # Screen recording logic
+- ├── utils/ # Helper scripts and utilities
+- ├── main.py # Central script that ties all modules together
 
 
 ---
